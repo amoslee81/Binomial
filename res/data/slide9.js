@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{4C85CF96-FAF6-4CCD-AD05-A8B0D7140D50}'];loadHandler&&loadHandler(8, '<div id="spr0_1e5cb76"><div id="spr1_1e5cb76" class="kern slide"><img id="img3_1e5cb76" src="data/img28.jpg" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1e5cb76" class="kern slide"><div id="spr3_1e5cb76" style="left:36px;top:57.75px;"><img id="img0_1e5cb76" src="data/img25.png" width="674.25" height="604.5" alt=""/></div><div id="spr4_1e5cb76" style="left:81.75px;top:150px;"><img id="img1_1e5cb76" src="data/img26.png" width="571.5" height="396" alt="\
+Weather Forecast Services\
+\
+Binomial theorem plays a significant role in predicting and analysing weather patterns. Using the existing data, we can predict the weather in the coming days or even weeks. \
+"/></div><div id="spr5_1e5cb76" style="left:1237.333px;top:943.79px;"><a id="hl0_1e5cb76" href="#"><img id="img2_1e5cb76" src="data/img27.png" width="42.75" height="42.75" alt="" style="left:-0.031px;top:-0.312px;"/></a></div></div></div>', '{"s":[]}');})();

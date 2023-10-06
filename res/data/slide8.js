@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{4C85CF96-FAF6-4CCD-AD05-A8B0D7140D50}'];loadHandler&&loadHandler(7, '<div id="spr0_1e5c6d3"><div id="spr1_1e5c6d3" class="kern slide"><img id="img2_1e5c6d3" src="data/img24.jpg" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1e5c6d3" class="kern slide"><div id="spr3_1e5c6d3" style="left:36px;top:48px;"><img id="img0_1e5c6d3" src="data/img22.png" width="674.25" height="624" alt=""/></div><div id="spr4_1e5c6d3" style="left:81px;top:143.25px;"><img id="img1_1e5c6d3" src="data/img23.png" width="583.5" height="471" alt="\
+Architecture\
+\
+The binomial theorem is of great use in architectural space. It allows engineers to calculate and estimate the resources that will be utilised and optimise costs. This results in a faster construction workflow and the contractors have a bigger margin of profit due to the minimization of costs."/></div></div></div>', '{"s":[]}');})();
